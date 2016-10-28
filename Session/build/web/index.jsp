@@ -17,13 +17,13 @@
             <Font >Ejemplo de Sesiones</font>
             </center>
             <br>
-            <form action="SesionesServlet" method="POST">
+            <form action='SesionesServlet' method="POST">
                 <Font color="white">
                     NOMBRE: <input type="text" name="NOMBRE">
                     <br>
                     <br>
                     APELLIDO: <input type="text" name="APELLIDO" />
-                    <input type="submit" value="Submit" />
+                    <input type="submit" value="action" />
                     <br><br>
                 </font>
             </form>
